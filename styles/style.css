@@ -86,7 +86,6 @@
   padding: 0 auto;
   display: flex;
   justify-content: space-between;
-  margin: auto;
   width: 80%;
 }
 
@@ -124,7 +123,6 @@
 .digits {
   margin: 0 auto;
   padding: 0 auto;
-  width: 100hv;
   margin-top: 100px;
 }
 
