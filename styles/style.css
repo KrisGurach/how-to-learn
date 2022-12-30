@@ -30,6 +30,7 @@
 }
 
 .header__title {
+  margin: 0;
   margin-left: 64px;
   padding: 0;
   max-width: 730px;
@@ -358,6 +359,7 @@
 .footer__column-link {
   margin: 0 auto;
   padding: 0;
+  display: list-item;
   text-decoration: none;
   color: white;
   line-height: 30px;
