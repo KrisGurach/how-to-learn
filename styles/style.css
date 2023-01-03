@@ -43,7 +43,7 @@
 .header__subtitle {
   margin: 0 auto;
   padding: 0;
-  max-width: 338px;
+  max-width: 388px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -84,8 +84,6 @@
   margin: 0 auto;
   padding: 0;
   margin-top: 100px;
-  display: flex;
-  justify-content: space-between;
 }
 
 .two-columns {
@@ -93,6 +91,7 @@
   padding: 0;
   display: flex;
   width: 80%;
+  justify-content: space-between;
 }
 
 .two-columns__brief {
@@ -242,7 +241,7 @@
   text-decoration: none;
   position: absolute;
   right: 48px;
-  height: 50%;
+  top: 50%;
 }
 
 .kaufman {
