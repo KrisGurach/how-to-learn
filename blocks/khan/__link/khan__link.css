@@ -1,0 +1,15 @@
+.khan__link {
+  margin: 0 auto;
+  padding: 0;
+  margin-left: 48px;
+  color: #2f80ed;
+  text-decoration: none;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.khan__link:hover {
+  opacity: 0.6;
+  transition: 1.5s;
+}
